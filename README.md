@@ -1,5 +1,6 @@
 Code Club
 ========
 
-####Learn how to style a website with CSS (Cascading Style Sheets)
+####Description
+Learn how to style a website with CSS (Cascading Style Sheets)
 
