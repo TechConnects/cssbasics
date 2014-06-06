@@ -1,3 +1,23 @@
 body {
-  background-color: red;
+  background-color: #fff;
+}
+
+ul li {
+	display: inline-block;
+	height: 35px;
+	width: 75px;
+	background-color: steelblue;
+	
+}
+
+footer {
+	background-color: lightgray;
+	height: 60px;
+	
+}
+
+.footer  p {	
+
+	margin-left: auto;
+    margin-right: auto;
 }
