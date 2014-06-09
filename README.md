@@ -6,10 +6,10 @@ Learn how to style a website with CSS (Cascading Style Sheets)
 
 ##Introduction to CSS
 (Please note: Parts A, B, and C of Lesson 2 are included in Lesson_2a.md)
-* Lesson 2a: What is CSS?
+* Lesson 1: What is CSS?
 * Exercise: Go to CSS Zen Garden website to see the difference CSS can make
-* Lesson 2b: How is CSS added to HTML?
-* Lesson 2c: CSS Syntax
+* Lesson 2: How is CSS added to HTML?
+* Lesson 3: CSS Syntax
 * Exercise: Experiment with the given html and css
 * Exercise: Style your "About.me" page
 
