@@ -15,7 +15,5 @@ Learn how to style a website with CSS (Cascading Style Sheets)
 
 ####Extra Volunteer Created HTML and CSS Resources:
 * HTML and CSS Vocab List (by Edwin Fuquen): https://docs.google.com/document/d/1fZj1jQFrGXQXdQZKmZ8a4bf5SBanf6n2QUBcqVWVJg8/edit?usp=sharing
-* ScriptEd HTML/CSS Pop Quiz (BK International): https://drive.google.com/file/d/0B2fF2axUr9M_eEd6cDBJLTJMOXM/edit?usp=sharing
-* ScriptEd HTML/CSS Pop Quiz Answer Key (BK International): https://docs.google.com/a/scripted.org/file/d/0B2fF2axUr9M_bVoyYU5XdWNGM3c/edit?usp=drive_web
- 
+
 
